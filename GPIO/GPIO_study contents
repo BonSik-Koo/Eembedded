@@ -1,0 +1,10 @@
+-GPIO_
+의미: 
+
+
+-wiringPi-
+의미: c를 이용하여 GPIO제어할때 필요한 라이브러리 
+사용법: (1) sudo apt-get install git-core (2)sudo apt-get updata && upgrade (3)git clone https://github.com/WiringPi/WiringPi.git
+        (4) cd wiringPi (5)git pull origin (6) sudo ./build
+
+       
